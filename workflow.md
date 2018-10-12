@@ -8,6 +8,7 @@
   * Create folder for new content
   * Share folder with the content team
 * **Collaborate and plan**
+  * Hold content-plan workshop 
   * Use the a priority framework
   * Make a content plan
 * **Produce**
@@ -61,7 +62,7 @@ Choose your sharing options in Google Drive, and start listing the people you wa
 O_ptional: 'Get shareable link' in Google Drive, and share it with people via Slack._
 {% endhint %}
 
-## 2. Collaborate
+## 2. Collaborate and plan
 
 Gather the right people together to quickly discuss what kind of content we can and should create.
 
@@ -120,6 +121,10 @@ If you decide as a team that this _could_ work, but isn't for the near future, a
 {% hint style="success" %}
 **Copy the text from the content plan template into your content plan.**
 {% endhint %}
+
+Content plans define the content's purpose and audiences and outline requirements and the team who will produce and approve the content.
+
+You can read more about creating a content plan at 'How to make a content plan'.
 
 {% page-ref page="content\_plan\_template.md" %}
 
