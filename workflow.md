@@ -1,5 +1,7 @@
 # Workflow
 
+![An outline of our workflow](.gitbook/assets/gdrive_workflow.png)
+
 ## 1. Identify Content Needs
 
 ### 1.1 Setup Google Drive
