@@ -5,29 +5,29 @@
 ![An outline of our workflow](.gitbook/assets/gdrive_workflow.png)
 
 * **Setup Google Drive**
-    - Create folder for new content
-    - Share folder with the content team
+  * Create folder for new content
+  * Share folder with the content team
 * **Collaborate and plan**
-    - Use the a priority framework
-    - Make a content plan
+  * Use the a priority framework
+  * Make a content plan
 * **Produce**
-    - Create Google Doc in Google Drive folder
-    - Create the content
-    - Collaboratively edit with the production team
+  * Create Google Doc in Google Drive folder
+  * Create the content
+  * Collaboratively edit with the production team
 * **Approve**
-    - Submit for approval
-    - Let the approver know (Slack, Email) they need to approve the content
+  * Submit for approval
+  * Let the approver know \(Slack, Email\) they need to approve the content
 * **Publish**
-    - Copy content to the appropriate channel (e.g. email template, ILR Website)
-    - Publish
-    - Celebrate
+  * Copy content to the appropriate channel \(e.g. email template, ILR Website\)
+  * Publish
+  * Celebrate
 * **Review**
 
 ## Resources
 
 {% page-ref page="content\_plan\_template.md" %}
-{% page-ref page="content-priority-framework.md" %}
 
+{% page-ref page="content-priority-framework.md" %}
 
 ## 1. Create a home for your new content
 
@@ -65,7 +65,7 @@ O_ptional: 'Get shareable link' in Google Drive, and share it with people via Sl
 
 Gather the right people together to quickly discuss what kind of content we can and should create.
 
-### 2.1 *Optional*: hold a content-plan workshop
+### 2.1 _Optional_: hold a content-plan workshop
 
 {% hint style="success" %}
 **Host a short workshop to create a content plan.**
@@ -133,10 +133,10 @@ If you decide as a team that this _could_ work, but isn't for the near future, a
 **Create a new doc in the Google Drive folder, name it the same as the folder.**
 {% endhint %}
 
-Collaboratively create and edit the document in Google Docs. 
+Collaboratively create and edit the document in Google Docs.
 
 {% hint style="info" %}
-**If appropriate, remember to use Google Drive's *Suggesting* feature to track changes.**
+**If appropriate, remember to use Google Drive's** _**Suggesting**_ **feature to track changes.**
 {% endhint %}
 
 ### 3.2 Source appropriate media
@@ -161,8 +161,8 @@ PAGE LINK TO NEW PAGE ABOUT IMAGES
 **If appropriate, add images or links to where images should go in the Google Doc draft.**
 {% endhint %}
 
-{% hint style="success" %}
-**Create a new doc in the Google Drive folder, name it "Content Plan."**
+{% hint style="warning" %}
+\*\*Make sure there is a usable image file in the Google Drive folder – not just pasted into the Google Doc draft.\*\*
 {% endhint %}
 
 ## 4. Approve

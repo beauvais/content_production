@@ -1,7 +1,3 @@
----
-description: A reference and guidebook for creating content at ILR
----
-
 # Quickstart
 
 {% page-ref page="workflow.md" %}
