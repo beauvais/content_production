@@ -4,15 +4,20 @@
 
 #### Setup Google Drive
 
-Name your content, and create a folder for it on Google Drive.
+**Name your content, and create a folder for it on Google Drive.**
 
 The very first step is to make sure there's a home for any content in Google Drive. Go into Google Drive and create a new folder. This is where all documents related to this content will live \(or be linked to, if they can't exist in Google Docs.\)
 
-Share the Google Drive folder Share the folder with the right people. Choose your sharing options in Google Drive, and start listing the people you want to collaborate with by email address. If they don't show up automatically, make sure to put in the email address they use for Google Drive. Optional: 'Get shareable link' in Google Drive, and share it with people via Slack.
+#### Share the Google Drive folder
+**Share the folder with the right people. **
+
+Choose your sharing options in Google Drive, and start listing the people you want to collaborate with by email address. If they don't show up automatically, make sure to put in the email address they use for Google Drive. 
+
+*Optional: 'Get shareable link' in Google Drive, and share it with people via Slack.*
 
 ### Use Priority Framework
 
-Use priority framework We look at content from three perspectives to help us make decisions about it.
+We look at content from three perspectives to help us make decisions about it.
 
 * **Audience** – who is our content for? 
 * **Purpose** – to what end is it published? 
