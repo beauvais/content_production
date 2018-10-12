@@ -75,6 +75,7 @@ Gather the right people together to quickly discuss what kind of content we can 
 Gather the right people together to quickly discuss what kind of content we can and should create. If you know about content you need to create in the near future \(such as the next sprint\), you can use a content-plan workshop to:
 
 * **Collaborate across teams** \(and generate good ideas\)
+* **Plan for calendar events**
 * **Define the scope of the content**
   * Identifying what kind of content is needed
   * Planning where it'll live
