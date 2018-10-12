@@ -1,5 +1,9 @@
 # Content Plan Template
 
+{% hint style="info" %}
+[Here's a Google-Docs version of the template you can clone](https://docs.google.com/document/d/1HL0DQTKevLJZqocnDmXIMq0Gs52L0DDw4lMIt8Qc33Q/edit?usp=sharing)
+{% endhint %}
+
 ## Purpose
 
 **Answer: what's it for?**
