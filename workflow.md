@@ -1,8 +1,29 @@
 # Workflow
 
+## Workflow outline
+
 ![An outline of our workflow](.gitbook/assets/gdrive_workflow.png)
 
-## 1. Identify Content Needs
+* **Setup Google Drive**
+    - Create folder for new content
+    - Share folder with the content team
+* **Collaborate and plan**
+    - Use the a priority framework
+    - Make a content plan
+* **Produce**
+    - Create Google Doc in Google Drive folder
+    - Create the content
+    - Collaboratively edit with the production team
+* **Approve**
+    - Submit the Google Doc to the approver
+    - Let the approver know (Slack, Email) they need to approve the content
+* **Publish**
+    - Copy content to the appropriate channel (e.g. email template, ILR Website)
+    - Publish
+    - Celebrate
+* **Review**
+
+## 1. Create a home for your new content
 
 ### 1.1 Setup Google Drive
 
@@ -34,7 +55,9 @@ Choose your sharing options in Google Drive, and start listing the people you wa
 O_ptional: 'Get shareable link' in Google Drive, and share it with people via Slack._
 {% endhint %}
 
-## 2. Use a Priority Framework
+## 2. Collaborate
+
+### 2.1 Use a priority framework
 
 {% hint style="success" %}
 Use the priority framework to decide whether or not to make content
@@ -50,7 +73,7 @@ We look at content from three perspectives to help us make decisions about it.
 
 To put our content into these contexts, we ask a series of questions.
 
-### 2.1 Applying priorities
+### 2.2 Decide whether to go ahead
 
 {% hint style="success" %}
 Apply the priorities \(i.e. decide to go ahead, wait, or stop making this content\)
@@ -62,9 +85,7 @@ If you decide as a team that this content is worth doing in the near future, mak
 
 If you decide as a team that this _could_ work, but isn't for the near future, add it to an appropriate content backlog to review later.
 
-## 3. Define purpose
-
-### 3.1 Make a content plan
+### 2.3 Make a content plan
 
 {% hint style="success" %}
 **Create a new doc in the Google Drive folder, name it "Content Plan."**
@@ -78,22 +99,17 @@ If you decide as a team that this _could_ work, but isn't for the near future, a
 
 {% page-ref page="how-to-content-plan.md" %}
 
-## 4. Outline content Requirements
+### 3. Produce
 
-Define the kind of content you want to create. This can be a page on a site, a printed postcard, a poster... anything that shares ILR's story and is fit for purpose.
+{% hint style="success" %}
+**Create a new doc in the Google Drive folder, name it the same as the folder.**
+{% endhint %}
 
-### 4.1 Content types
+Collaboratively create and edit the document in Google Docs. 
 
-Choose the right kinds of content to fit your purposes. You might need to create or commission several to accomplish your goals. Examples include:
-
-* News story \(on the ILR website\)
-  * Featured on home?
-* Email campaign
-* Social Media post \(or series\) 
-  * Twitter
-  * Instagram
-  * Facebook
-  * LinkedIn
+{% hint style="info" %}
+**If appropriate, remember to use Google Drive's *Suggesting* feature to track changes.**
+{% endhint %}
 
 ## 5 Content Quality
 

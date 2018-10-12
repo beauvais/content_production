@@ -72,3 +72,20 @@ Capture who will do what to create, approve, and publish your content.
 Share the folder on Google Drive with the people listed in the team.
 {% endhint %}
 
+## Outline content Requirements
+
+Define the kind of content you want to create. This can be a page on a site, a printed postcard, a poster... anything that shares ILR's story and is fit for purpose.
+
+### Content types
+
+Choose the right kinds of content to fit your purposes. You might need to create or commission several to accomplish your goals. Examples include:
+
+* News story \(on the ILR website\)
+  * Featured on home?
+* Email campaign
+* Social Media post \(or series\) 
+  * Twitter
+  * Instagram
+  * Facebook
+  * LinkedIn
+
