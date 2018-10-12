@@ -23,6 +23,12 @@
     - Celebrate
 * **Review**
 
+## Resources
+
+{% page-ref page="content\_plan\_template.md" %}
+{% page-ref page="content-priority-framework.md" %}
+
+
 ## 1. Create a home for your new content
 
 ### 1.1 Setup Google Drive
