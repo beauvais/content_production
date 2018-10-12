@@ -26,7 +26,9 @@ We look at content from three perspectives to help us make decisions about it.
 
 To put our content into these contexts, we ask a series of questions.
 
+{% hint style="info" %}
 [Read more about the Priority Framework](content-priority-framework.md)
+{% endhint %}
 
 ### Applying priorities
 
