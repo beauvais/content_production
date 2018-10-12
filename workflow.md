@@ -14,7 +14,9 @@ Create a new folder in Google Drive
 
 The very first step is to make sure there's a home for any content in Google Drive. Go into Google Drive and create a new folder. This is where all documents related to this content will live \(or be linked to, if they can't exist in Google Docs.\)
 
-![](.gitbook/assets/animation.gif)
+![](.gitbook/assets/screen-shot-2018-10-11-at-16.49.47%20%281%29.png)
+
+![](.gitbook/assets/screen-shot-2018-10-11-at-16.50.47.png)
 
 ### 1.2 Share the Google Drive folder
 
@@ -26,7 +28,11 @@ Share the folder with the content team
 
 Choose your sharing options in Google Drive, and start listing the people you want to collaborate with by email address. If they don't show up automatically, make sure to put in the email address they use for Google Drive.
 
-_Optional: 'Get shareable link' in Google Drive, and share it with people via Slack._
+![](.gitbook/assets/screen-shot-2018-10-12-at-14.20.30.png)
+
+{% hint style="info" %}
+O_ptional: 'Get shareable link' in Google Drive, and share it with people via Slack._
+{% endhint %}
 
 ## 2. Use a Priority Framework
 
