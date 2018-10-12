@@ -15,7 +15,7 @@
     - Create the content
     - Collaboratively edit with the production team
 * **Approve**
-    - Submit the Google Doc to the approver
+    - Submit for approval
     - Let the approver know (Slack, Email) they need to approve the content
 * **Publish**
     - Copy content to the appropriate channel (e.g. email template, ILR Website)
@@ -125,7 +125,9 @@ If you decide as a team that this _could_ work, but isn't for the near future, a
 
 {% page-ref page="how-to-content-plan.md" %}
 
-### 3. Produce
+## 3. Produce
+
+### 3.1 Create and edit
 
 {% hint style="success" %}
 **Create a new doc in the Google Drive folder, name it the same as the folder.**
@@ -135,6 +137,38 @@ Collaboratively create and edit the document in Google Docs.
 
 {% hint style="info" %}
 **If appropriate, remember to use Google Drive's *Suggesting* feature to track changes.**
+{% endhint %}
+
+### 3.2 Source appropriate media
+
+{% hint style="success" %}
+**Refer to the content plan for any image requirements.**
+{% endhint %}
+
+{% hint style="success" %}
+**Find appropriate images that illustrate the story, and that we're free to use.**
+{% endhint %}
+
+PAGE LINK TO NEW PAGE ABOUT IMAGES
+
+### 3.3 Add media to Google Drive folder
+
+{% hint style="success" %}
+**Add images, videos, and any other media used to the Google Drive folder**
+{% endhint %}
+
+{% hint style="success" %}
+**If appropriate, add images or links to where images should go in the Google Doc draft.**
+{% endhint %}
+
+{% hint style="success" %}
+**Create a new doc in the Google Drive folder, name it "Content Plan."**
+{% endhint %}
+
+## 4. Approve
+
+{% hint style="success" %}
+**Submit the document for approval**
 {% endhint %}
 
 ## 5 Content Quality

@@ -70,8 +70,8 @@ Commissioned: 20 September, 2019 Published: 15 October, 2019
 
 Include everyone who needs to be a part of the team. Record their names and what they'll do for this piece:
 
-* Zach will write the text
-* David will take photos
-* Mary will approve it
-* Aaron will build the call to action
+* **Zach** will write the text
+* **David** will take photos
+* **Mary** will approve it
+* **Aaron** will build the call to action
 
