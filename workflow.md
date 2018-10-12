@@ -14,6 +14,8 @@ Create a new folder in Google Drive
 
 The very first step is to make sure there's a home for any content in Google Drive. Go into Google Drive and create a new folder. This is where all documents related to this content will live \(or be linked to, if they can't exist in Google Docs.\)
 
+![](.gitbook/assets/animation.gif)
+
 ### 1.2 Share the Google Drive folder
 
 {% hint style="success" %}
