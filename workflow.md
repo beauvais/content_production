@@ -18,6 +18,8 @@ _Optional: 'Get shareable link' in Google Drive, and share it with people via Sl
 
 ## 2. Use a Priority Framework
 
+{% page-ref page="content-priority-framework.md" %}
+
 We look at content from three perspectives to help us make decisions about it.
 
 * **Audience** – who is our content for? 
@@ -25,10 +27,6 @@ We look at content from three perspectives to help us make decisions about it.
 * **Process** – how do we create, publish, and curate our content?
 
 To put our content into these contexts, we ask a series of questions.
-
-{% hint style="info" %}
-[Read more about the Priority Framework](content-priority-framework.md)
-{% endhint %}
 
 ### 2.1 Applying priorities
 
