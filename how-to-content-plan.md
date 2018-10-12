@@ -1,6 +1,6 @@
-# How to create a content plan
+# How to Make a Content Plan
 
-{% page-ref page="content_plan_template.md" %}
+{% page-ref page="content\_plan\_template.md" %}
 
 Create a new doc in the Google Drive folder, name it "Content Plan," and copy text from the content plan template.
 
@@ -71,3 +71,4 @@ Capture who will do what to create, approve, and publish your content.
 {% hint style="info" %}
 Share the folder on Google Drive with the people listed in the team.
 {% endhint %}
+
