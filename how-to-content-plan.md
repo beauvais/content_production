@@ -18,7 +18,7 @@ Gather the right people together to quickly discuss what kind of content we can 
   * Defining the team \(and what each person will do\)
   * Setting a date for publishing and reviewing 
 
-You can also collaborate on a content plan via Slack once you've created the content-plan doc in Google Drive \(see below\).
+You can also collaborate on a content plan via Slack once you've created the content-plan doc in Google Drive.
 
 ## Define the purpose and audience
 

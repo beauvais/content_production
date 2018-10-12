@@ -31,7 +31,7 @@
 
 ## 1. Create a home for your new content
 
-### 1.1 Setup Google Drive
+### 1.1 Set up Google Drive
 
 {% hint style="success" %}
 Create a new folder in Google Drive
@@ -63,10 +63,30 @@ O_ptional: 'Get shareable link' in Google Drive, and share it with people via Sl
 
 ## 2. Collaborate
 
-### 2.1 Use a priority framework
+Gather the right people together to quickly discuss what kind of content we can and should create.
+
+### 2.1 *Optional*: hold a content-plan workshop
 
 {% hint style="success" %}
-Use the priority framework to decide whether or not to make content
+**Host a short workshop to create a content plan.**
+{% endhint %}
+
+Gather the right people together to quickly discuss what kind of content we can and should create. If you know about content you need to create in the near future \(such as the next sprint\), you can use a content-plan workshop to:
+
+* **Collaborate across teams** \(and generate good ideas\)
+* **Define the scope of the content**
+  * Identifying what kind of content is needed
+  * Planning where it'll live
+  * Making sure it's covered by campaigns and social-media channels
+  * Defining the team \(and what each person will do\)
+  * Setting a date for publishing and reviewing 
+
+You can also collaborate on a content plan via Slack once you've created the content-plan doc in Google Drive \(see below\).
+
+### 2.2 Use a priority framework
+
+{% hint style="success" %}
+**Use the priority framework to decide whether or not to make content**
 {% endhint %}
 
 {% page-ref page="content-priority-framework.md" %}
@@ -79,7 +99,7 @@ We look at content from three perspectives to help us make decisions about it.
 
 To put our content into these contexts, we ask a series of questions.
 
-### 2.2 Decide whether to go ahead
+### 2.3 Decide whether to go ahead
 
 {% hint style="success" %}
 Apply the priorities \(i.e. decide to go ahead, wait, or stop making this content\)
@@ -91,7 +111,7 @@ If you decide as a team that this content is worth doing in the near future, mak
 
 If you decide as a team that this _could_ work, but isn't for the near future, add it to an appropriate content backlog to review later.
 
-### 2.3 Make a content plan
+### 2.4 Make a content plan
 
 {% hint style="success" %}
 **Create a new doc in the Google Drive folder, name it "Content Plan."**
