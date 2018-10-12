@@ -8,3 +8,10 @@
 
 {% page-ref page="content\_plan\_template.md" %}
 
+## Resources
+
+
+## How to's
+
+{%% page-ref page"}
+

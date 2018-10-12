@@ -141,9 +141,7 @@ Collaboratively create and edit the document in Google Docs.
 
 ### 3.2 Source appropriate media
 
-{% hint style="success" %}
 **Refer to the content plan for any image requirements.**
-{% endhint %}
 
 {% hint style="success" %}
 **Find appropriate images that illustrate the story, and that we're free to use.**
@@ -162,7 +160,7 @@ PAGE LINK TO NEW PAGE ABOUT IMAGES
 {% endhint %}
 
 {% hint style="warning" %}
-\*\*Make sure there is a usable image file in the Google Drive folder – not just pasted into the Google Doc draft.\*\*
+**Make sure there is a usable image file in the Google Drive folder – not just pasted into the Google Doc draft.**
 {% endhint %}
 
 ## 4. Approve
