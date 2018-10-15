@@ -12,8 +12,9 @@ Define the purpose straight away. Don't start thinking about the media, the phot
 
 **e.g.**
 
-* "We want ILRies to go to the Alice Cook lecture. If they can’t make it, they can watch it online."
-* "We want current undergraduate students to feel connected to ILR and know they can get cookies."
+*"We want ILRies to go to the Alice Cook lecture. If they can’t make it, they can watch it online."*
+
+*"We want current undergraduate students to feel connected to ILR and know they can get cookies."*
 
 ## Audience
 
@@ -54,13 +55,13 @@ _Be sure to consider an onward journey._
 
 ## Creation plan
 
+**Answer: What is it?**
+
+This is a webpage with text and an image. It'll live at /programs/our\_new\_offering. It'll take two weeks to write, and a week to organise photos.
+
 **Answer: How will we make and use it?**
 
 Set down what will make up this content, where it will be published, and record any special requirements it raises. Include dates, both when commissioned and by when it needs publishing.
-
-**e.g.**
-
-This is a webpage with text and an image. It'll live at /programs/our\_new\_offering. It'll take two weeks to write, and a week to organise photos.
 
 Commissioned: 20 September, 2019 Published: 15 October, 2019
 
