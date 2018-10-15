@@ -72,7 +72,7 @@ Gather the right people together to quickly discuss what kind of content we can 
 **Host a short workshop to create a content plan.**
 {% endhint %}
 
-{% page-ref page="content-plan-workshop.md" %}
+<!-- {% page-ref page="content-plan-workshop.md" %} -->
 
 Gather the right people together to quickly discuss what kind of content we can and should create. If you know about content you need to create in the near future \(such as the next sprint\), you can use a content-plan workshop to:
 
