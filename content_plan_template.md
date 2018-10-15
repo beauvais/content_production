@@ -55,15 +55,20 @@ _Be sure to consider an onward journey._
 
 ## Creation plan
 
-**Answer: What is it?**
+**Answer: What kind of content do we need?**
 
-This is a webpage with text and an image. It'll live at /programs/our\_new\_offering. It'll take two weeks to write, and a week to organise photos.
+List any and all kinds of content you'll need to create, for example:
 
-**Answer: How will we make and use it?**
+* Landing page for email campaign
+* Email text and image for campaign
+* Information page on ILR website 
 
-Set down what will make up this content, where it will be published, and record any special requirements it raises. Include dates, both when commissioned and by when it needs publishing.
+**Answer: when?**
 
-Commissioned: 20 September, 2019 Published: 15 October, 2019
+Define any important dates:
+
+Commissioned: 20 September, 2019
+To be published: 15 October, 2019
 
 ## Governance
 
