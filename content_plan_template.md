@@ -4,80 +4,45 @@
 [Here's a Google-Docs version of the template you can clone](https://docs.google.com/document/d/1HL0DQTKevLJZqocnDmXIMq0Gs52L0DDw4lMIt8Qc33Q/edit?usp=sharing)
 {% endhint %}
 
-## Purpose
+## Purpose – what’s it for?
 
-**Answer: what's it for?**
+**Define the purpose straight away.**
 
-Define the purpose straight away. Don't start thinking about the media, the photos, the tone, or the website until you've jotted down the reason you're creating content. Set its context, and say what you want to accomplish by creating \(or reviewing\) it.
 
-**e.g.**
+"We want ILRies to go to the Alice Cook lecture. If they can’t make it, they can watch it online."
 
-*"We want ILRies to go to the Alice Cook lecture. If they can’t make it, they can watch it online."*
+## Audience – who’s it for?
 
-*"We want current undergraduate students to feel connected to ILR and know they can get cookies."*
+**Say who the most important audience is**. Content created for everyone is suited to no one. You can also list secondary audiences.
 
-## Audience
+“Recent alumni who work in HR.”
 
-**Answer: who's it for?**
-
-Say who the most important audience is. Content created for _everyone_ is suited to _no one_. You can have a couple, but the more dispersed your audiences, the less your content tends to be relevant.
-
-**e.g.**
-
-* The primary audience is recent alumni who work in HR.
-* The primary audience is potential undergraduate students.
-* The primary audience is current students who live on campus.
-
-You can also include secondary audiences – people for whom this would be good for them to know, but you're not highly focused on them.
-
-You can't have secondary audiences without a primary audience.
-
-## Calls to action
-
-**Answer: what do you want me to do with this? and: what's next?**
+## Calls to action – what do you want me to do with this?
 
 With a purpose and an audience defined, lay out what you want people to do with this content.
 
-**If appropriate, list any calls to action.**
+* Register (link to registration form)
+* Get in touch (mailto link, or link to contact form)
 
-**e.g.**
+## Creation plan – how will we make it?
 
-* Register \(link to registration form\)
-* Find our more \(link to blog post\)
-* Get in touch \(mailto link, or link to contact form\)
-* Join \(link to sign-up form\)
+**List all the pieces of content we need to create** (and who will do them) to make this plan happen.
 
-_Be sure to consider an onward journey._
+* Landing page – Dave
+* Photograph – Joan
+* Email campaign – Jen
+* Feature story – Mary
+* Social media – Ambassadors via Dave
+    - Instagram post * 2
+    - Twitter post
+    - Facebook post
+    - LinkedIn post
 
-**e.g.**
+## Timeline – when will we make this live?
 
-* Read this related story
+**List any dates** – when it needs published and when it should be reviewed in future.
 
-## Creation plan
-
-**Answer: What kind of content do we need?**
-
-List any and all kinds of content you'll need to create, for example:
-
-* Landing page for email campaign
-* Email text and image for campaign
-* Information page on ILR website 
-
-**Answer: when?**
-
-Define any important dates:
-
-Commissioned: 20 September, 2019
-To be published: 15 October, 2019
-
-## Governance
-
-**Answer: Who will make it, and who will approve it?**
-
-Include everyone who needs to be a part of the team. Record their names and what they'll do for this piece:
-
-* **Zach** will write the text
-* **David** will take photos
-* **Mary** will approve it
-* **Aaron** will build the call to action
+Publish by: 1 November, 2018
+Do not publish before: 29 October, 2018
+Review in 1 year
 
