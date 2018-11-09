@@ -1,4 +1,4 @@
-# Content strategy project template
+# Content strategy engagement process
 
 This is a perpetual draft of the process we are designing to help us support in marketing and communications through content strategy.
 
@@ -23,8 +23,6 @@ These are the intended results of applied content strategy.
     - Campaigns
     - Content planning and support
 
-
-
 ## Process
 
 ### Discover
@@ -42,7 +40,8 @@ These are the intended results of applied content strategy.
 * Persona development
 * User research
 * Interviews
-* Heuristic Analysis
+* Heuristic analysis
+* Audit framework development
 
 ### Plan
 
@@ -85,6 +84,7 @@ These are the intended results of applied content strategy.
 * Templates (e.g. content plan)
 * Training
 * Wireframing
+* Scope documentation
 
 
 ### Produce
@@ -98,6 +98,7 @@ These are the intended results of applied content strategy.
 
 * Google docs
 * Workshops
+* Content review
 
 ### Approve
 
