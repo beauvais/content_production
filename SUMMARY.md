@@ -5,14 +5,13 @@
 ## Guides
 
 * [Workflow](workflow.md)
-<!-- * [Content-plan workshop](content-plan-workshop.md)
- -->
+<!-- * [Content-plan workshop](content-plan-workshop.md) -->
+<!-- * [Content engagement process](content-engagement-process.md) -->
 
 ## Resources
 
 * [Content priority framework](content-priority-framework.md)
 * [Content plan template](content_plan_template.md)
-* [Content engagement process](content-engagement-process.md)
 
 ## How-to's
 
