@@ -3,12 +3,12 @@
 ## Guides
 
 {% page-ref page="workflow.md" %}
+{% page-ref page="content-engagement-process.md" %}
 <!-- {% page-ref page="content-plan-workshop.md" %} -->
 
 ## Resources
 
 {% page-ref page="content-priority-framework.md" %}
-{% page-ref page="content-engagement-process.md"%}
 
 {% page-ref page="content\_plan\_template.md" %}
 
