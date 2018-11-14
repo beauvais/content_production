@@ -8,6 +8,7 @@
 ## Resources
 
 {% page-ref page="content-priority-framework.md" %}
+{% page-ref page="content-engagement-process.md"%}
 
 {% page-ref page="content\_plan\_template.md" %}
 
