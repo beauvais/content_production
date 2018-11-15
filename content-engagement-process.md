@@ -25,7 +25,16 @@ These are the intended results of applied content strategy.
 
 ## Process
 
+* Discover
+* Plan
+* Produce
+* Approve
+* Publish
+* Review
+
 ### Discover
+
+Discovery is where we aim to set the scope of work to be done. Outlining goals and identifying changes to make let us work on purpose.
 
 * Define purposes
 * Articulate audiences
@@ -33,13 +42,15 @@ These are the intended results of applied content strategy.
 * Review what we have
 * Identify changes
 
+
+
 #### Tools
 
+* Interviews
 * Affinity mapping
 * Workshops
 * Persona development
 * User research
-* Interviews
 * Heuristic analysis
 * Audit framework development
 

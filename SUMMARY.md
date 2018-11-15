@@ -6,7 +6,7 @@
 
 * [Workflow](workflow.md)
 <!-- * [Content-plan workshop](content-plan-workshop.md) -->
-<!-- * [Content engagement process](content-engagement-process.md) -->
+* [Content engagement process](content-engagement-process.md)
 
 ## Resources
 
