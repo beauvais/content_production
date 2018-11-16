@@ -34,17 +34,24 @@ These are the intended results of applied content strategy.
 
 ### Discover
 
-Discovery is where we aim to set the scope of work to be done. Outlining goals and identifying changes to make let us work on purpose.
+Discovery is where we aim to set the scope of work to be done. We start wide with purpose definitions and broad needs assessments, narrowing down into identifying tasks to be done. We'd look to assess what we have (looking at existing content, marketing channels and initiatives, websites, etc). General discovery outcomes include:
 
-* Define purposes
-* Articulate audiences
-* Assess needs
-* Review what we have
-* Identify changes
+* Defined purposes
+* Articulated audiences
+* Broad needs assessed
+* A review of the context (e.g. what content are we currently using?)
+* A scope of work
+
+The first two – purpose and audience – are the most important contexts that need stating.
+
+The depth of discovery depends on the scope of work. For a quick marketing campaign that follows a pattern we've established, for example, we can discover what needs doing from a few conversations and a quick content plan. For something involving multiple teams and months instead of days, discovery should expand to cover the detail we need to know what needs doing, when, and by whom.
+
+We use different discovery tools – all exist to help define purposes. They tend toward answering *why* and *what* questions. What do we want to do? Why? What will our users want to see? Why? 
+
+Most projects don't use every tool. The most common activity is a workshop, where the people proposing and planning to do the work meet with us to set out what we want to get done, why, and make sure we've defined our audiences for any public-facing work.
 
 
-
-#### Tools
+#### Typical discovery tools include:
 
 * Interviews
 * Affinity mapping
@@ -52,11 +59,18 @@ Discovery is where we aim to set the scope of work to be done. Outlining goals a
 * Persona development
 * User research
 * Heuristic analysis
-* Audit framework development
+* Content audit and audit framework development
+* Scope outline
 
 ### Plan
 
-* Identify and scope changes
+Content planning turns goals into actions. This is where we map proposed changes and desired outcomes to prioritised tasks and teams. 
+
+The outcome of planning is a set of working documents or outlining tools (e.g. team project management tools) that are geared up for doing the work.
+
+All three teams here use a form of Agile project methodology to get things done. So, at planning, we will want to fit different pieces of work into our overall workflows. It's important that we consider priorities.
+
+* Finalise scope and changes
 * Define success
 * Content plan
     - Purpose
