@@ -6,7 +6,6 @@
 
 * [Workflow](workflow.md)
 <!-- * [Content-plan workshop](content-plan-workshop.md) -->
-* [Content engagement process](content-engagement-process.md)
 
 ## Resources
 
@@ -18,4 +17,6 @@
 * [How to make a content plan](how-to-content-plan.md)
 * [How to source and use images](how-to-images.md)
 
+## Drafts
 
+* [Content engagement process](content-engagement-process.md)
