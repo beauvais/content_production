@@ -115,6 +115,8 @@ Breaking down planning into an outline would typically look like this:
 
 ### Produce
 
+Production is where we hand over to  [workflow](workflow.md) for content production.
+
 * Create collaboratively
 * Commission
 * Edit
