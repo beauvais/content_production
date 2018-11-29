@@ -34,7 +34,11 @@ These are the intended results of applied content strategy.
 
 ### Discover
 
-Discovery is where we aim to set the scope of work to be done. We start wide with purpose definitions and broad needs assessments, narrowing down into identifying tasks to be done. We'd look to assess what we have (looking at existing content, marketing channels and initiatives, websites, etc). General discovery outcomes include:
+{% hint style="info" %}
+**Discovery is defining purpose.**
+{% endhint %}
+
+Discovery is where we define goals. We start wide with purpose definitions and broad needs assessments, narrowing down into identifying tasks to be done in a scope of work. We'd look to assess what we have (looking at existing content, marketing channels and initiatives, websites, etc). General discovery outcomes include:
 
 * Defined purposes
 * Articulated audiences
@@ -45,7 +49,7 @@ Discovery is where we aim to set the scope of work to be done. We start wide wit
     - Communication plan
     - Website story
 
-The first two – purpose and audience – are the most important contexts that need definition during discovery.
+**The first two – purpose and audience – are the most important contexts that need definition during discovery.**
 
 The depth of discovery depends on the scope of work. For a quick marketing campaign that follows a pattern we've established, for example, we can discover what needs doing from a few conversations and a quick content plan. For something involving multiple teams and months instead of days, discovery should expand to cover the detail we need to know what needs doing, when, and by whom.
 
