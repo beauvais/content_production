@@ -31,6 +31,7 @@ These are the intended results of applied content strategy.
 * Approve
 * Publish
 * Review
+* Iterate
 
 ### Discover
 
@@ -146,3 +147,10 @@ Production is where we hand over to  [workflow](workflow.md) for content product
 * Timeline
 * Review date
 * Review governance plan
+
+### Iterate
+
+* Identify changes in process
+* Improve communications strategies
+* Identify new marketing opportunities
+* Identify new audiences
