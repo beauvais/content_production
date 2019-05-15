@@ -1,190 +1,113 @@
-# Workflow
+# Marketing/comms team workflow
 
-## Workflow outline
+## TL; DR
 
-![An outline of our workflow](.gitbook/assets/gdrive_workflow.png)
+The basic unit of work is a task. Tasks live in a team's _backlog_ and a project which might cross over teams. Each task is either part of a project or is a _service request_ – where a client asks for a discrete piece of work.
 
-* **Setup Google Drive**
-  * Create folder for new content
-  * Share folder with the content team
-* **Collaborate and plan**
-  * Hold content-plan workshop 
-  * Use the a priority framework
-  * Make a content plan
-* **Produce**
-  * Create Google Doc in Google Drive folder
-  * Create the content
-  * Collaboratively edit with the production team
-* **Approve**
-  * Submit for approval
-  * Let the approver know \(Slack, Email\) they need to approve the content
-* **Publish**
-  * Copy content to the appropriate channel \(e.g. email template, ILR Website\)
-  * Publish
-  * Celebrate
-* **Review**
+Each _project_ has a client who commissioned it, an end date (or can be marked as done when all tasks are completed), and is made up of tasks. There are several project templates which match the kind of project (e.g. an event). All projects fit under one of 5 _work priorities_.
 
-## Resources
+All project tasks get planned in two-week _sprints_. At sprint planning, we review our planning tools: the editorial calendar, the backlogs, and project lists. We pull in tasks which we plan to get done within the 2-week sprint. 
 
-{% page-ref page="content\_plan\_template.md" %}
+### Outline:
 
-{% page-ref page="content-priority-framework.md" %}
+* Portfolio
+    - Project
+* Team backlog
+    - Task
 
-## 1. Create a home for your new content
+## 5 Work Priorities:
 
-### 1.1 Set up Google Drive
+All work we do should further these 5 priorities. These are priorities for the school – our team's overall success is the school's success.
 
-{% hint style="success" %}
-Create a new folder in Google Drive
-{% endhint %}
+### The five
 
-**Name your content, and create a folder for it on Google Drive.**
+* Increase enrolment: professional-programs, graduate, and undergraduate
+* Support fund-raising and development
+* Promote and demonstrate our research excellence through faculty
+* Support our current student's experience while here
 
-The very first step is to make sure there's a home for any content in Google Drive. Go into Google Drive and create a new folder. This is where all documents related to this content will live \(or be linked to, if they can't exist in Google Docs.\)
+```
+P1: Drive increased growth in Professional Programs
+P2: Ensure all grad degree programs are filled
+P3: Promote faculty and research excellence
+P4: Assist the fundraising efforts of AAD
+P5: Support events and 1-time programs with comms, marketing, web presence, registration
+P6: Handle all the other stuff that gets thrown at us in ways that support programatic needs, strengthens our relationships with stakeholders, and preserves our reputation.
+```
 
-![](.gitbook/assets/screen-shot-2018-10-11-at-16.49.47%20%281%29.png)
+### Project Aspects
 
-![](.gitbook/assets/screen-shot-2018-10-11-at-16.50.47.png)
+* Are _colours_ in Asana
+* Are _portfolios_ in Asana
+* Comprise _projects_
 
-### 1.2 Share the Google Drive folder
 
-{% hint style="success" %}
-Share the folder with the content team
-{% endhint %}
 
-**Share the folder with the right people.**
+## Clients
 
-Choose your sharing options in Google Drive, and start listing the people you want to collaborate with by email address. If they don't show up automatically, make sure to put in the email address they use for Google Drive.
+### Project Aspects
 
-![](.gitbook/assets/screen-shot-2018-10-12-at-14.20.30.png)
+* Commission _projects_
+* Commission _service requests_
+* Are _portfolios_ in Asana
+* Comprise _projects_
 
-{% hint style="info" %}
-O_ptional: 'Get shareable link' in Google Drive, and share it with people via Slack._
-{% endhint %}
+## Projects
 
-## 2. Collaborate and plan
+### Project Aspects
 
-Gather the right people together to quickly discuss what kind of content we can and should create.
+* Can be marked as done
+* Are _projects_ in Asana
+* Comprise _tasks_ in Asana
+* Cross-over teams
 
-### 2.1 _Optional_: hold a content-plan workshop
+### Project templates
 
-{% hint style="success" %}
-**Host a short workshop to create a content plan.**
-{% endhint %}
+* Events
+* Website refresh
+* Annual marketing
+* Communications plan
+* Marketing plan
 
-<!-- {% page-ref page="content-plan-workshop.md" %} -->
+## Service requests
 
-Gather the right people together to quickly discuss what kind of content we can and should create. If you know about content you need to create in the near future \(such as the next sprint\), you can use a content-plan workshop to:
+### Project Aspects
 
-* **Collaborate across teams** \(and generate good ideas\)
-* **Plan for calendar events**
-* **Define the scope of the content**
-  * Identifying what kind of content is needed
-  * Planning where it'll live
-  * Making sure it's covered by campaigns and social-media channels
-  * Defining the team \(and what each person will do\)
-  * Setting a date for publishing and reviewing 
+* Ad-hoc (defined as **not** being in a project)
 
-You can also collaborate on a content plan via Slack once you've created the content-plan doc in Google Drive \(see below\).
+## Sprints
 
-### 2.2 Use a priority framework
+### Project Aspects
 
-{% hint style="success" %}
-**Use the priority framework to decide whether or not to make content**
-{% endhint %}
+* Comprise _tasks_ from a _backlog_ and _editorial calendar_
+* Are defined every fortnight by _sprint planning_
+* Are reviewed every fortnight by _sprint review_
+* Are named alphabetically-sequentially
 
-{% page-ref page="content-priority-framework.md" %}
+## Tasks
 
-We look at content from three perspectives to help us make decisions about it.
+### Project Aspects
 
-* **Audience** – who is our content for? 
-* **Purpose** – to what end is it published? 
-* **Process** – how do we create, publish, and curate our content?
+* Are _tasks_ in Asana
 
-To put our content into these contexts, we ask a series of questions.
+## Teams
 
-### 2.3 Decide whether to go ahead
+### Project Aspects
 
-{% hint style="success" %}
-Apply the priorities \(i.e. decide to go ahead, wait, or stop making this content\)
-{% endhint %}
+* Each owns a _backlog_
 
-If you decide as a team that this is not fit for purpose, do nothing further.
+## Backlog
 
-If you decide as a team that this content is worth doing in the near future, make sure it's shared with the right sprint teams to be included in their planning.
+### Project Aspects
 
-If you decide as a team that this _could_ work, but isn't for the near future, add it to an appropriate content backlog to review later.
+* Owned by _team_
+* Essentially define a team in Asana (a team owns their own backlog)
+* Is a _project_ in Asana
 
-### 2.4 Make a content plan
+## Editorial Calendar
 
-{% hint style="success" %}
-**Create a new doc in the Google Drive folder, name it "Content Plan."**
-{% endhint %}
+### Project Aspects
 
-{% hint style="success" %}
-**Copy the text from the content plan template into your content plan.**
-{% endhint %}
+* Comprises _events_
 
-Content plans define the content's purpose and audiences and outline requirements and the team who will produce and approve the content.
-
-You can read more about creating a content plan at 'How to make a content plan'.
-
-{% page-ref page="content\_plan\_template.md" %}
-
-{% page-ref page="how-to-content-plan.md" %}
-
-## 3. Produce
-
-### 3.1 Create and edit
-
-{% hint style="success" %}
-**Create a new doc in the Google Drive folder, name it the same as the folder.**
-{% endhint %}
-
-Collaboratively create and edit the document in Google Docs.
-
-{% hint style="info" %}
-**If appropriate, remember to use Google Drive's** _**Suggesting**_ **feature to track changes.**
-{% endhint %}
-
-### 3.2 Source appropriate media
-
-**Refer to the content plan for any image requirements.**
-
-{% hint style="success" %}
-**Find appropriate images that illustrate the story, and that we're free to use.**
-{% endhint %}
-
-PAGE LINK TO NEW PAGE ABOUT IMAGES
-
-### 3.3 Add media to Google Drive folder
-
-{% hint style="success" %}
-**Add images, videos, and any other media used to the Google Drive folder**
-{% endhint %}
-
-{% hint style="success" %}
-**If appropriate, add images or links to where images should go in the Google Doc draft.**
-{% endhint %}
-
-{% hint style="warning" %}
-**Make sure there is a usable image file in the Google Drive folder – not just pasted into the Google Doc draft.**
-{% endhint %}
-
-## 4. Approve
-
-{% hint style="success" %}
-**Submit the document for approval**
-{% endhint %}
-
-## 5 Content Quality
-
-### 5.1 Images
-
-* Aptness: "Does this image illustrate the story or does it emotionally engage with our intended audience?"
-* Dimensions
-* File name \(make sure it's descriptive like cookie\_day.jpg and not DSC02849.jpg\)
-* File size
-* Alt text \(for screen-readers\)
-* Caption \(visible to readers\)
 
