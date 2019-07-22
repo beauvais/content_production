@@ -1,4 +1,4 @@
-# Marketing/comms team workflow
+# Project and Task Workflow
 
 ## TL; DR
 
